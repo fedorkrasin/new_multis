@@ -1,0 +1,34 @@
+{
+	"currencies": {
+		"currency": [
+			{
+				"_id": "1",
+				"_name": "Bitcoin",
+				"_abbr": "BTC",
+				"_amount": "1.2",
+				"_price": "7704"
+			},
+			{
+				"_id": "2",
+				"_name": "Ethereum",
+				"_abbr": "ETH",
+				"_amount": "32",
+				"_price": "195.68"
+			},
+			{
+				"_id": "3",
+				"_name": "USD Coin",
+				"_abbr": "USC",
+				"_amount": "6.8",
+				"_price": "1"
+			},
+			{
+				"_id": "4",
+				"_name": "Buzcoin",
+				"_abbr": "BUZ",
+				"_amount": "12500",
+				"_price": "0.004"
+			}
+		]
+	}
+}

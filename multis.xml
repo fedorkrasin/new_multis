@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<currencies>
+		<currency id="1" name="Bitcoin" abbr="BTC" amount="1.2" price="7704" />
+		<currency id="2" name="Ethereum" abbr="ETH" amount="32" price="195.68" />
+		<currency id="3" name="USD Coin" abbr="USC" amount="6.8" price="1" />
+		<currency id="4" name="Buzcoin" abbr="BUZ" amount="12500" price="0.004" />
+	</currencies>
